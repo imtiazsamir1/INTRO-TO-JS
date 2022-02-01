@@ -22,9 +22,10 @@
 
 //  const myNumber = 6.5356;
 //   const output =Math.round(myNumber);
-//  console.log(output)
-// const myNumber = 6.5356;
+  /* console.log(output)
+const myNumber = 6.5356; */
 
 //  const output =Math.random() * 6;
 //   const rounded=Math.floor(output);
 //  console.log(rounded);
+
