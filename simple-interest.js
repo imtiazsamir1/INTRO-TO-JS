@@ -10,4 +10,4 @@ return total;
  var secondNum = 0.095;
  var thirdNum=7;
  var result = interestAmount(firstNum,secondNum,thirdNum);
- console.log('Interest Amount:', result);
+ console.log('Interest Amount:', result. toFixed(2));
