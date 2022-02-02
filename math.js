@@ -1,8 +1,8 @@
 // negetive thakle positive
 // ***** 
-// const myNumber = -5;
-// const output =Math.abs(myNumber);
-// console.log(output)
+const myNumber = -5;
+const output =Math.abs(myNumber);
+console.log(output);
 
 // ceiling
 // ******
