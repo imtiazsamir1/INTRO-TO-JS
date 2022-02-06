@@ -1,14 +1,18 @@
-const names= ['abul','babul','kabul','moinul','monirul','monu','abul','babul','didarul'];
+const names= ['babul','kabul','moinul','monirul','monu','abul','babul','didarul'];
 
 function removeDuplicate(names){
+    
     const unique=[];
 
-    for(const element of names){
-        // console.log(element);
-        if ( unique.indexOf(element) == -1)
-        {
-            unique.push(element);
-        }
+    for(i=0;i<names.length;i++){
+        //  console.log(element);
+        if ( names[i>=0])
+         {
+            unique.push(names[i]);
+         }
+         else{
+             break;
+         }
     
     }
     return unique;

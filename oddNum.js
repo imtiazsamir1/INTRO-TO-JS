@@ -7,5 +7,5 @@ function oddNum(num){
     return false;
 }
 console.log(oddNum)
-// const isMyNumOdd = oddNum(num);
-// console.log('isMyNumOdd',isMyNumOdd);
+ const isMyNumOdd = oddNum(num);
+console.log('isMyNumOdd',isMyNumOdd);
